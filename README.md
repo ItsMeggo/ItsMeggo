@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/105523419/206859096-b072ef15-6791-44cd-9f15-bf5d5537cf19.gif)
+
 - 👋 Hi, I’m @ItsMeggo
 - 👀 I’m interested in ... Flipnote, emulation, game dev, and whatever random projects I get ideas for! 
 - 🌱 I’m currently learning ... HTML, CSS, Python, Git
