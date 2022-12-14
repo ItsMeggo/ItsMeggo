@@ -33,9 +33,8 @@ You can click the Preview link to take a look at your changes.
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ItsMeggo&count_private=true&show_icons=true&include_all_commits=true)
 
-![Streaks]<a href="http://www.github.com/ItsMeggo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeggo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ItsMeggo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeggo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeggo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
