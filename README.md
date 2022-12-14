@@ -34,7 +34,9 @@ You can click the Preview link to take a look at your changes.
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ItsMeggo&count_private=true&show_icons=true&include_all_commits=true)
+
 <a href="http://www.github.com/ItsMeggo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeggo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeggo&hide=TeX&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeggo&hide=TeX&layout=compact&stroke=ffffff&background=1c1917)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ItsMeggo.ItsMeggo)
