@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Gmail Badge](https://img.shields.io/badge/-meggobro@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:meggobro@gmail.com)](mailto:meggobro@gmail.com)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)<a href="(https://www.behance.net/Meggo)">
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)(a href="(https://www.behance.net/Meggo)")
 
 
 ## ⚡ Technologies
