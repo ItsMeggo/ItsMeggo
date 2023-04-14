@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ... HTML, CSS, Python, Git
 - 💞️ I’m looking to collaborate on ... anything that can help me learn!
 
-Participating in advent of code 2022! I'm only 10 days late starting...but better late than never LET'S GO!
 
 Contact me at meggobro@gmail.com!
 
